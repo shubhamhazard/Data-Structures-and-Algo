@@ -63,7 +63,7 @@ Feedback or suggestions? Open an issue or reach out!
 ## 📬 Contact
 
 - 📧 Email:
-- 📱 LinkedIn: [your-link](https://www.linkedin.com/in/shubham-kumar-513678285/)
+- 📱 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/shubham-kumar-513678285/)
 
 ---
 
