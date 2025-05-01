@@ -45,5 +45,30 @@ Each folder corresponds to a topic or a platform. Inside each folder, you’ll f
 
 ## 🚀 How to Use
 
-1. Clone the repo:
+1. Clone the repo.
+
+2. Navigate to a topic folder and open `.cpp` files to view the code.
+
+3. You can run/test each code snippet using your local compiler or an online IDE.
+
+---
+
+## 🙌 Contributions
+
+This is a personal learning repo, but feel free to fork and use it as a reference.  
+Feedback or suggestions? Open an issue or reach out!
+
+---
+
+## 📬 Contact
+
+- 📧 Email: your.email@example.com
+- 📱 LinkedIn: [your-link](https://linkedin.com/in/your-profile)
+
+---
+
+## ⭐ If this helped, consider giving it a star!
+
+Happy coding! 🚀
+
 
