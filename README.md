@@ -62,8 +62,8 @@ Feedback or suggestions? Open an issue or reach out!
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com
-- 📱 LinkedIn: [your-link](https://linkedin.com/in/your-profile)
+- 📧 Email:
+- 📱 LinkedIn: [your-link](https://www.linkedin.com/in/shubham-kumar-513678285/)
 
 ---
 
