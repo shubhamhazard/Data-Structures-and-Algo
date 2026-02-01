@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
- void bfs(vector < vector < int >> & adj, unordered_map < int, bool> & visited, vector < int > & ans, int node)
+using namespace std;
+void bfs(vector < vector < int >> & adj, unordered_map < int, bool> & visited, vector < int > & ans, int node)
     {
         queue < int > q;
         q.push(node);
